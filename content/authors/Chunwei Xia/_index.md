@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 夏春伟
+title: Chunwei Xia
 
 # Name pronunciation (optional)
-name_pronunciation: Xia Chun Wei
+name_pronunciation: 春伟 夏
 
 # Full name (for SEO)
 first_name: Chunwei
