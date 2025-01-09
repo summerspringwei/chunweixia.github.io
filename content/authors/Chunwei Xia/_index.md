@@ -62,7 +62,7 @@ education:
       Supervised by [Prof Huimin Cui](https://cuihuimin.github.io) and [Prof Xiaobing Feng](https://people.ucas.ac.cn/~fengxiaobing).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: '/uploads/thesis.pdf'
   
   - area: BSc Computer Science and Technology
     institution: Tianjin University
