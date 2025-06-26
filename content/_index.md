@@ -47,11 +47,7 @@ sections:
         Since 2023, I have been using AI to build system software in a cost-effective way. Several important papers have been published in:  
         [IPDPS'25](https://www.ipdps.org/2025-announcements.html),
         [ACL'24](https://aclanthology.org/2024.findings-emnlp.55.pdf),
-        [ICSE'24](https://dl.acm.org/doi/10.1145/3597503.3639212).  
-
-        {{% callout note %}}  
-        Fully funded PhD Studentship in [Pattern-aware Parallel Software Development](https://phd.leeds.ac.uk/project/2156-high-level-pattern-aware-parallel-software-development). Apply before 31st January 2025.  
-        {{% /callout %}}  
+        [ICSE'24](https://dl.acm.org/doi/10.1145/3597503.3639212).
 
         {{% callout note %}}  
         Fully funded PhD Studentship in [Democratizing Large Deep Learning Models](https://phd.leeds.ac.uk/project/2008-democratise-large-deep-learning-models).  
