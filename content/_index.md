@@ -49,10 +49,6 @@ sections:
         [ACL'24](https://aclanthology.org/2024.findings-emnlp.55.pdf),
         [ICSE'24](https://dl.acm.org/doi/10.1145/3597503.3639212).
 
-        {{% callout note %}}  
-        Fully funded PhD Studentship in [Democratizing Large Deep Learning Models](https://phd.leeds.ac.uk/project/2008-democratise-large-deep-learning-models).  
-        {{% /callout %}}  
-
         We are always looking for self-motivated PhD students.  
         For candidates with a good research track record, **full PhD scholarships are available**.  
         Feel free to email me if you are interested.  
