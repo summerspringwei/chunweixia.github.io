@@ -42,7 +42,7 @@ tags:
 
 featured: false
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/11395190'
 url_code: ''
 url_dataset: ''
 url_poster: ''
